@@ -7,4 +7,4 @@
 6 should display the third linr of 'iacta'
 7 should create a non empty file with special characters in the name
 8 writes the result of 'ls -la' into a file,'ls\_cwd\_content'
-
+9 duplicates the last line of the file iacta
