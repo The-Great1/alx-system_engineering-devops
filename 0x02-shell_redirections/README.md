@@ -6,4 +6,5 @@
 5 should display the first 10 lines of /etc/passwd
 6 should display the third linr of 'iacta'
 7 should create a non empty file with special characters in the name
+8 writes the result of 'ls -la' into a file,'ls\_cwd\_content'
 
