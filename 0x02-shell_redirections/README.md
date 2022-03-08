@@ -9,3 +9,4 @@
 8 writes the result of 'ls -la' into a file,'ls\_cwd\_content'
 9 duplicates the last line of the file iacta
 10 deletes all .js files and not directories in the current directory and subdirectories
+11 counts the number of directories and sub-directories in the current directory
