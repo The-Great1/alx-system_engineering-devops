@@ -8,3 +8,4 @@
 7 should create a non empty file with special characters in the name
 8 writes the result of 'ls -la' into a file,'ls\_cwd\_content'
 9 duplicates the last line of the file iacta
+10 deletes all .js files and not directories in the current directory and subdirectories
